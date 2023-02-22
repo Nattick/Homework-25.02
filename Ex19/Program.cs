@@ -4,9 +4,9 @@
 // 12821 -> да
 // 23432 -> да
 
-int Number();
+int Number ()
 {
-    Console.Writeline("Enter a 5-digit number and find out if it's palindrome");
+    Console.WriteLine("Enter a 5-digit number and find out if it's palindrome");
     int N = Convert.ToInt32(Console.ReadLine());
     return N;
 }
@@ -23,7 +23,7 @@ void Palindrome(int N)
     {
         Console.WriteLine("Hooray! We have a palindrome here!");
     }
-    else Console.Writeline("Sorry, not a palindrome...");
+    else Console.WriteLine("Sorry, not a palindrome...");
 }
-else Console.Writeline("This is not a 5-digit number. Think again!");
+else Console.WriteLine("This is not a 5-digit number. Think again!");
 }
