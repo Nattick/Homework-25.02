@@ -1,0 +1,5 @@
+/Users/nataliakonovalova/Desktop/Seminar3/Ex23/obj/Debug/net6.0/Ex23.csproj.AssemblyReference.cache
+/Users/nataliakonovalova/Desktop/Seminar3/Ex23/obj/Debug/net6.0/Ex23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliakonovalova/Desktop/Seminar3/Ex23/obj/Debug/net6.0/Ex23.AssemblyInfoInputs.cache
+/Users/nataliakonovalova/Desktop/Seminar3/Ex23/obj/Debug/net6.0/Ex23.AssemblyInfo.cs
+/Users/nataliakonovalova/Desktop/Seminar3/Ex23/obj/Debug/net6.0/Ex23.csproj.CoreCompileInputs.cache
